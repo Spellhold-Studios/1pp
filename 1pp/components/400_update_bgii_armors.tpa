@@ -411,7 +411,7 @@ END
 
 // Dream of the Thief (Rolles mod)
 ACTION_IF (FILE_EXISTS_IN_GAME ~s#leat01.itm~) BEGIN
-	COPY_EXISTING ~s#leat011.itm~ ~override~
+	COPY_EXISTING ~s#leat01.itm~ ~override~
 		LPF ~1pp_leat23~ END
 	BUT_ONLY
 END

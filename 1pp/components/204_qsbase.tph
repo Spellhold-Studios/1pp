@@ -1031,7 +1031,7 @@ END
 
 // Staff of the Dragon +3
 ACTION_IF (FILE_EXISTS_IN_GAME ~r#asmstf.itm~) BEGIN
-	COPY_EXISTING ~r#asmstff.itm~ ~override~
+	COPY_EXISTING ~r#asmstf.itm~ ~override~
 		LPF ~1pp_staf23_0~ END
 	BUT_ONLY
 END

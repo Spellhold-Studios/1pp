@@ -354,7 +354,7 @@ END
 
 // Staff of the Dragon +3
 ACTION_IF (FILE_EXISTS_IN_GAME ~r#asmstf.itm~) BEGIN
-	COPY_EXISTING ~r#asmstff.itm~ ~override~
+	COPY_EXISTING ~r#asmstf.itm~ ~override~
 		PATCH_IF (SOURCE_SIZE > 0x71) BEGIN	// protects against invalid files
 			WRITE_ASCII 0x22 ~Q3~			// Quarterstaff (alternate 2)
 		END

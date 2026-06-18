@@ -2,7 +2,7 @@
 ![Latest Release](https://img.shields.io/github/v/release/SpellholdStudios/1pp?include_prereleases&color=darkred)<a name="top" id="top"> </a>
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20linux&color=informational)
 ![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20French%20%7C%20Russian&color=limegreen)
-<a href="README_FR.md"><img align="right" src="1pp/documentation/files/images/fr-flag-32.png" title="Readme français"></a>
+<a href="README_FR.md"><img align="right" src="1pp/documentation/files/images/fr-flag-32.png" title="Readme franÃ§ais"></a>
 
 
 <div align="center"><h1>1pp (One Pixel Productions)</h1>
@@ -13,7 +13,6 @@
 
 
 **Author:** Erephine  
-**Mod Website:** <a href="http://www.spellholdstudios.net/ie/1pp">Spellhold Studios</a>  
 **Mod forum:** <a href="http://www.shsforums.net/forum/159-1pp/">One Pixel Productions</a>  
 
 ## 
@@ -39,7 +38,7 @@ Without a doubt the most comprehensive mod when it comes to post-release QA and 
 
 This mod offers the player the option to change the paperdolls and inventory icons of Baldur's Gate II to those of Baldur's Gate, and adds a number of completely new fixes, additions and alterations to the original BGII game. Technically speaking, One Pixel Productions is an attempt to fix "*cosmetic flaws*" that should have never made it through QA, as well as improve upon a number of other of things. It contains many <a href="#components">components</a>, including: BG1 Paperdoll and inventory item ports, except for potions, BG1-style Flaming Swords, Flaming Short Swords (with item and mod item patches), new Paperdolls (human, half-orc, elven, halfling, dwarf), legacy Shields, Colourable Quarterstaves (with item patches)...
 
-Visit the <a href="http://www.spellholdstudios.net/ie/1pp">website</a> or <a href="http://www.shsforums.net/forum/159-1pp/">forum</a> for all the latest updates.</br>
+Visit the <a href="http://www.shsforums.net/forum/159-1pp/">forum</a> for all the latest updates.</br>
 <div align="right"><a href="#top">Back to top</a></div>
 
 
@@ -453,7 +452,7 @@ For installs that do not support the binary patch (OSX), this installs the basic
 
 Complete install patching the game executable, enabling full use of the extended colour entries.</br>
 When installing the full version, extra choices for skin and hair colour will automatically become available from the ingame selection.</br>
-As for clothing colours, during character creation and from the inventory the standard complement of 34 primary and secondary colours will be offered. To access more clothing colours, choose 'customise' » 'colours' from the character sheet to gain access to yet another set of 34 colours.</br>
+As for clothing colours, during character creation and from the inventory the standard complement of 34 primary and secondary colours will be offered. To access more clothing colours, choose 'customise' Â» 'colours' from the character sheet to gain access to yet another set of 34 colours.</br>
 
 <div align="right"><a href="#components">Back to components list</a></div>
 
@@ -790,7 +789,7 @@ Contains the following fixes: dog animations (corrupted palette), sitting static
 
 #### Special Acknowledgements to:
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - *Extended palette entries* component: Thanks to <a href="http://www.shsforums.net/user/41045-skellytz/">skellytz</a> for his Random color entries in character customization fix.
 - <a href="http://www.shsforums.net/user/13218-bartimaeus/">Bartimaeus</a> and <a href="http://www.shsforums.net/user/10485-sam/">Sam</a>: thanks for their testing feedback and suggestions of improvements.
 - French translation: <a href="http://www.shsforums.net/user/24495-gwendolyne/">Gwendolyne</a> (<a href="http://www.shsforums.net/user/16735-luren/">Luren</a> for proodreading).
